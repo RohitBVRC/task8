@@ -1,0 +1,9 @@
+category,product_name,total_sales,rank_val
+Furniture,Chair,15500.00,1
+Furniture,Table,15000.00,2
+"Office Supplies",Notebook,1800.00,1
+"Office Supplies",Paper,1200.00,2
+"Office Supplies",Pen,500.00,3
+Technology,Laptop,93000.00,1
+Technology,Tablet,22000.00,2
+Technology,Printer,16000.00,3

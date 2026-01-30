@@ -1,0 +1,13 @@
+order_id,order_date,customer_name,region,category,product_name,sales
+O-101,2023-01-05,"Amit Kumar",East,Technology,Laptop,45000.00
+O-102,2023-01-10,"Amit Kumar",East,Technology,Mouse,1200.00
+O-103,2023-01-15,"Neha Sharma",East,Furniture,Chair,8500.00
+O-104,2023-02-02,"Rahul Verma",West,Technology,Laptop,48000.00
+O-105,2023-02-05,"Rahul Verma",West,Technology,Keyboard,2500.00
+O-106,2023-02-12,"Pooja Singh",West,"Office Supplies",Paper,1200.00
+O-107,2023-03-01,"Suresh Rao",South,Furniture,Table,15000.00
+O-108,2023-03-05,"Suresh Rao",South,Furniture,Chair,7000.00
+O-109,2023-03-12,"Anjali Mehta",South,Technology,Tablet,22000.00
+O-110,2023-04-03,"Ravi Patel",North,"Office Supplies",Pen,500.00
+O-111,2023-04-07,"Ravi Patel",North,"Office Supplies",Notebook,1800.00
+O-112,2023-04-15,"Kiran Joshi",North,Technology,Printer,16000.00
